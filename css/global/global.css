@@ -21,10 +21,6 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-:root {
-	--font-1: 64px;
-}
-
 img {
     width: 100%;
 }

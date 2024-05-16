@@ -1,0 +1,21 @@
+.main-bg {
+    height: 100vh;
+    background: url('../../img/pg-principal/foto-final.jpg') no-repeat;
+    background-size: 100% auto;
+    overflow: hidden;
+}
+
+.main {
+    display: block;
+    
+}
+
+.titulo-main {
+    display: flex;
+    justify-content: left;
+    text-align: left;
+}
+
+.descricao-main {
+    padding-bottom: 68px;
+}
