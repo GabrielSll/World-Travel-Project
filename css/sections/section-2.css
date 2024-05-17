@@ -1,4 +1,21 @@
-.grid-img-home {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+.flex-img-home {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    gap: 30px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.flex-img-home img {
+    max-width: 300px;
+    max-height: 420px;
+    width: auto;
+    height: auto;
+    border-radius: 4px 0px 4px 0px;
+}
+
+.titulo-img {
+    padding-top: 25px;
+    padding-bottom: 15px;
 }
