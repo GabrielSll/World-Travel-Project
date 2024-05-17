@@ -10,8 +10,14 @@
 
 @import url("./main/main.css");
 
+/* Sections */
+
+@import url("./sections/section-1.css");
+@import url("./sections/section-2.css");
+
 /* Utilidades */
 
+@import url("./utilidades/container.css");
 @import url("./utilidades/cores.css");
 @import url("./utilidades/tipografia.css");
 @import url("./utilidades/botao.css");

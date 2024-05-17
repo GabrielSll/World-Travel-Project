@@ -4,6 +4,7 @@
     --cor-2: #15473c;
     --cor-3: #15ab8b;
     --cor-4: #656f77;
+    --cor-5: #000000;
 }
 
 .cor-0 {
@@ -24,9 +25,4 @@
 
 .cor-4 {
     color: var(--cor-4);
-}
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
 }

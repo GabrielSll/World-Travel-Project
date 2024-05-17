@@ -1,4 +1,22 @@
-.botao {
-    padding: 10px 20px;
+.button {
+    color: var(--cor-0);
+    text-decoration: none;
+    padding: 20px 60px;
     background-color: var(--cor-1);
+    border-radius: 4px;
+}
+
+.button:hover {
+    transition: 0.3s;
+    font-size: 1.190rem;
+    opacity: 90%;
+}
+
+.button-home {
+    color: var(--cor-0);
+    text-decoration: none;
+    padding: 18px 60px;
+    border: none;
+    background-color: var(--cor-1);
+    margin-top: 20px;
 }

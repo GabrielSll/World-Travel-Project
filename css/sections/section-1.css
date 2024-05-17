@@ -1,0 +1,24 @@
+.subscrise {
+    display: flex;
+    text-align: left;
+    gap: 40px;
+    align-items: top;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.form-email-home {
+    padding-top: 8px;
+}
+
+.input-home {
+    margin-top: 20px;
+    text-align: left;
+    padding: 12px 160px 12px 20px;
+    border: 1px solid var(--cor-1)
+} 
+
+.input-button-home {
+    display: flex;
+    text-align: center;
+}
