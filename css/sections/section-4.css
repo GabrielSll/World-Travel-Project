@@ -8,6 +8,16 @@
 .section-4-content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 40px;
-    padding-top: 60px;
+    gap: 80px;
+    padding: 80px;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-4-descricao {
+    margin-top: 40px;
+}
+
+.section-4-button {
+    margin-top: 20px;
 }
