@@ -10,13 +10,31 @@
     grid-row: 1;
 }
 
-@media (max-width: 400px) {
+.detalhe-home {
+    position: relative;
+}
+.detalhe-home::before {
+    content: "";
+    position: absolute;
+    height: 122px;
+    width: 6px;
+    margin-right: 10px;
+    border-radius: 2px;
+    background-color: var(--cor-3);
+    transition: width 0.2;
+}
+.section-3-descricao {
+    margin-left: 20px;
+}
+
+@media (max-width: 500px) {
     .top-videos {
         display: flex;
         flex-wrap: wrap;
         padding-top: 10px;
         justify-content: center;
     }
+
     .section-3-img img {
         max-width: 340px;
         max-height: 420px;

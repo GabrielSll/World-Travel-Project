@@ -51,7 +51,7 @@
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
     .button-home {
         padding: 18px 60px;
         border-radius: 4px;
