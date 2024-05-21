@@ -42,6 +42,9 @@
         padding-right: 20px;
         padding-bottom: 12px;
     }
+    .input-home {
+        padding: 12px 80px 12px 20px;
+    }
     .input-button-home {
         justify-content: center;
         align-items: center;
