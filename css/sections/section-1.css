@@ -1,7 +1,7 @@
 .subscrise {
-    display: flex;
-    text-align: left;
-    gap: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
     align-items: top;
     padding-top: 60px;
     padding-bottom: 80px;
@@ -20,5 +20,40 @@
 
 .input-button-home {
     display: flex;
-    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-home {
+    color: var(--cor-0);
+    text-decoration: none;
+    padding: 11px 20px;
+    border: none;
+    background-color: var(--cor-1);
+    margin-top: 20px;
+}
+
+@media (max-width: 800px) {
+    .subscrise {
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 12px;
+    }
+    .input-button-home {
+        justify-content: center;
+        align-items: center;
+    }
+    .button-home {
+        padding: 10.5px 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    .button-home {
+        padding: 18px 60px;
+        border-radius: 4px;
+    }
 }

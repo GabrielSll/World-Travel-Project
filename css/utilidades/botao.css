@@ -11,12 +11,3 @@
     font-size: 1.190rem;
     opacity: 90%;
 }
-
-.button-home {
-    color: var(--cor-0);
-    text-decoration: none;
-    padding: 18px 60px;
-    border: none;
-    background-color: var(--cor-1);
-    margin-top: 20px;
-}

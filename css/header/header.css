@@ -4,6 +4,7 @@
 
 .header {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     padding-top: 12px;
@@ -26,3 +27,22 @@
     color: var(--cor-0);
 }
 
+@media (max-width: 800px) {
+    .titulo {
+        margin-left: 14px;
+    }
+    .menu {
+        margin-right: 14px;
+    }
+}
+
+@media (max-width: 400px) {
+    .header {
+        justify-content: center;   
+    }
+    .menu {
+        margin-top: 12px;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+}

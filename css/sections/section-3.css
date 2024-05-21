@@ -9,3 +9,33 @@
     grid-column: 2;
     grid-row: 1;
 }
+
+@media (max-width: 400px) {
+    .top-videos {
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 10px;
+        justify-content: center;
+    }
+    .section-3-img img {
+        max-width: 340px;
+        max-height: 420px;
+        width: auto;
+        height: auto;
+    }
+    .section-3-content {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        padding-top: 20px;
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+    .section-3-button {
+        color: var(--cor-0);
+        text-decoration: none;
+        padding: 12px 20px;
+        background-color: var(--cor-1);
+        border-radius: 4px;
+    }
+}

@@ -19,3 +19,17 @@
     padding-top: 25px;
     padding-bottom: 15px;
 }
+
+@media (max-width: 800px) {
+    .flex-img-home {
+        padding-top: 25px;
+        padding-bottom: 60px;
+        justify-content: center;
+    }
+    .flex-img-home img {
+        border-radius: 4px;
+    }
+    .titulo-img {
+        padding-top: 18px;
+    }
+}
