@@ -13,6 +13,7 @@
 .detalhe-home {
     position: relative;
 }
+
 .detalhe-home::before {
     content: "";
     position: absolute;

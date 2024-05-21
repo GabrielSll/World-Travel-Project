@@ -1,0 +1,13 @@
+.section-4-bg {
+    height: max-content;
+    background: url(../../img/pg-principal/descount-image.jpg) no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.section-4-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    padding-top: 60px;
+}
