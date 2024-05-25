@@ -9,15 +9,30 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 80px;
-    padding: 80px;
+    padding: 20px;
     justify-content: center;
     align-items: center;
 }
 
 .section-4-descricao {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .section-4-button {
-    margin-top: 20px;
+    color: var(--cor-2);
+    text-decoration: none;
+    padding: 14px 40px;
+    background-color: var(--cor-0);
+    border-radius: 4px;
+}
+
+@media (max-width: 400px) {
+    .section-4-content {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .section-4-button {
+        
+    }
 }

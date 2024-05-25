@@ -17,7 +17,7 @@
 .detalhe-home::before {
     content: "";
     position: absolute;
-    height: 122px;
+    height: 145px;
     width: 6px;
     margin-right: 10px;
     border-radius: 2px;
