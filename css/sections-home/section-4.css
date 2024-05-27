@@ -3,19 +3,21 @@
     background: url(../../img/pg-principal/descount-image.jpg) no-repeat;
     background-size: cover;
     overflow: hidden;
+    margin-bottom: 30px;
 }
 
 .section-4-content {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 80px;
-    padding: 20px;
+    padding: 40px 50px;
     justify-content: center;
     align-items: center;
 }
 
 .section-4-descricao {
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .section-4-button {

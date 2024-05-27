@@ -12,10 +12,11 @@
 
 /* Sections */
 
-@import url("./sections/section-1.css");
-@import url("./sections/section-2.css");
-@import url("./sections/section-3.css");
-@import url("./sections/section-4.css");
+@import url("./sections-home/section-1.css");
+@import url("./sections-home/section-2.css");
+@import url("./sections-home/section-3.css");
+@import url("./sections-home/section-4.css");
+@import url("./sections-home/section-5.css");
 
 /* Utilidades */
 
@@ -23,3 +24,4 @@
 @import url("./utilidades/cores.css");
 @import url("./utilidades/tipografia.css");
 @import url("./utilidades/botao.css");
+@import url("./utilidades/flex-img-home.css");

@@ -11,3 +11,39 @@
     font-size: 1.190rem;
     opacity: 90%;
 }
+
+.button-home {
+    color: var(--cor-0);
+    text-decoration: none;
+    padding: 11px 20px;
+    border: none;
+    background-color: var(--cor-1);
+    margin-top: 20px;
+}
+
+.button-home-radius {
+    color: var(--cor-0);
+    text-decoration: none;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: var(--cor-1);
+    margin-top: 20px;
+}
+
+/* Ipad */
+
+@media (max-width: 800px) {
+    .button-home {
+        padding: 10.5px 20px;
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 500px) {
+    .button-home {
+        padding: 18px 60px;
+        border-radius: 4px;
+    }
+}

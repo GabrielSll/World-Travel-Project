@@ -25,15 +25,6 @@
     align-items: center;
 }
 
-.button-home {
-    color: var(--cor-0);
-    text-decoration: none;
-    padding: 11px 20px;
-    border: none;
-    background-color: var(--cor-1);
-    margin-top: 20px;
-}
-
 @media (max-width: 800px) {
     .subscrise {
         display: flex;
@@ -48,15 +39,5 @@
     .input-button-home {
         justify-content: center;
         align-items: center;
-    }
-    .button-home {
-        padding: 10.5px 20px;
-    }
-}
-
-@media (max-width: 500px) {
-    .button-home {
-        padding: 18px 60px;
-        border-radius: 4px;
     }
 }
