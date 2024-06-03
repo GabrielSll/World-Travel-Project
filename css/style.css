@@ -20,6 +20,10 @@
 @import url("./sections-home/section-6.css");
 @import url("./sections-home/section-7.css");
 
+/* Footer */
+
+@import url("./footer/footer.css");
+
 /* Utilidades */
 
 @import url("./utilidades/container.css");

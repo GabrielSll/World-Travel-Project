@@ -41,6 +41,7 @@
         flex-wrap: wrap;
         justify-content: center;
         text-align: left;
+        gap: 12px;
         margin-left: 14px;
         margin-right: 14px;
         margin-bottom: 40px;

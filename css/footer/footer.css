@@ -1,0 +1,37 @@
+footer {
+    padding: 20px;
+    background-color: black;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    gap: 520px;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer li {
+    margin-top: 12px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: var(--cor-0);
+}
+
+.copy {
+    margin-top: 60px;
+}
+
+@media (max-width: 500px) {
+    .footer {
+        gap: 109px;
+    }
+    .footer li {
+        margin-top: 25px;
+    }
+}
