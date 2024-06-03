@@ -33,8 +33,7 @@
 }
 
 .input-home-s7 {
-    margin-top: 20px;
-    margin-bottom: 2px;
+    margin: 20px 20px 20px 0px;
     padding: 12px 160px 12px 20px;
     border: 1px solid var(--cor-5);
     border-radius: 4px;
