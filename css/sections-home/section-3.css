@@ -11,13 +11,13 @@
     grid-row: 1;
 }
 
-.detalhe-home {
+.detalhe-home-3 {
     padding-top: 20px;
     padding-bottom: 20px;
     position: relative;
 }
 
-.detalhe-home::before {
+.detalhe-home-3::before {
     content: "";
     position: absolute;
     height: 75px;
@@ -30,7 +30,7 @@
 
 .section-3-descricao {
     margin-left: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .section-3-button {

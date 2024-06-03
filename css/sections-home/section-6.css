@@ -1,0 +1,25 @@
+.detalhe-home-6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.detalhe-home-6::before {
+    content: "";
+    position: absolute;
+    height: 98px;
+    width: 6px;
+    margin-right: 10px;
+    border-radius: 2px;
+    background-color: var(--cor-3);
+    transition: width 0.2;
+}
+
+.section-6-button {
+    color: var(--cor-0);
+    text-decoration: none;
+    padding: 12px 20px;
+    background-color: var(--cor-1);
+    border-radius: 4px;
+    margin-left: 20px;
+}
