@@ -5,6 +5,8 @@ Projeto pessoal desenvolvido apenas para praticar.
 Encontrei esse template e quis replicar afim de 
 aprimorar meus conhecimentos em HTML e CSS.
 
+Link do projeto: https://travel-world-project.netlify.app/
+
 ### Como inicar o projeto: 
 
 - Basta baixar o código em formato zip.
@@ -12,8 +14,15 @@ aprimorar meus conhecimentos em HTML e CSS.
 - Abrir a pasta no seu vscode ou outro
 - Rodar o arquivo com live server.
 
-<img src = "screenshots/foto1.png">
-<img src = "screenshots/foto2.png">
+<img src = "screenshots/tela-1.jpg">
+<img src = "screenshots/tela-2.jpg">
+<img src = "screenshots/tela-3.jpg">
+<img src = "screenshots/tela-4.jpg">
+<img src = "screenshots/tela-5.jpg">
+<img src = "screenshots/tela-6.jpg">
+<img src = "screenshots/tela-7.jpg">
+<img src = "screenshots/tela-8.jpg">
+
 
 ## Tecnologias e Dependências
 
