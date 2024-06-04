@@ -5,6 +5,8 @@ Projeto pessoal desenvolvido apenas para praticar.
 Encontrei esse template e quis replicar afim de 
 aprimorar meus conhecimentos em HTML e CSS.
 
+Para dispositivos Mobile utilize: Iphone SE
+
 Link do projeto: https://travel-world-project.netlify.app/
 
 ### Como inicar o projeto: 
