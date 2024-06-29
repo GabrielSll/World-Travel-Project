@@ -1,4 +1,5 @@
-const linksInternos = document.querySelectorAll('.js-menu a[href^="#"]');
+const linksInternosMenu = document.querySelectorAll('.js-menu a[href^="#"]');
+const linksInternosSections = document.querySelectorAll('.js-section a[href^="#"]')
 
 function initScrollSuave() {
     
@@ -13,7 +14,11 @@ function initScrollSuave() {
         })
     }
 
-    linksInternos.forEach((link) => {
+    linksInternosMenu.forEach((link) => {
+        link.addEventListener('click', scrollToSection);
+    })
+
+    linksInternosSections.forEach((link) => {
         link.addEventListener('click', scrollToSection);
     })
 }
