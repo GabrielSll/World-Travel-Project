@@ -4,12 +4,11 @@ Projeto pessoal desenvolvido apenas para praticar.
 
 Link do projeto: https://travel-world-project.netlify.app/
 
-### Como inicar o projeto: 
+### Link do projeto: 
 
-- Basta baixar o código em formato zip.
-- Descompactar em uma pasta de sua preferência
-- Abrir a pasta no seu vscode ou outro
-- Rodar o arquivo com live server.
+- https://travel-world-project.netlify.app/
+
+## Fotos Ilustrativas
 
 <img src = "screenshots/tela-1.jpg">
 <img src = "screenshots/tela-2.jpg">
