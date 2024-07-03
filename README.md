@@ -2,8 +2,6 @@
 
 Projeto pessoal desenvolvido apenas para praticar. 
 
-Link do projeto: https://travel-world-project.netlify.app/
-
 ### Link do projeto: 
 
 - https://travel-world-project.netlify.app/
